@@ -1,0 +1,11 @@
+E:\VTS\VehicleTracking-master\VehicleTrackingSystem\VehicleTracking.Infrastructure\obj\Debug\netcoreapp3.1\VehicleTrackingSystem.Infrastructure.AssemblyInfoInputs.cache
+E:\VTS\VehicleTracking-master\VehicleTrackingSystem\VehicleTracking.Infrastructure\obj\Debug\netcoreapp3.1\VehicleTrackingSystem.Infrastructure.AssemblyInfo.cs
+E:\VTS\VehicleTracking-master\VehicleTrackingSystem\VehicleTracking.Infrastructure\obj\Debug\netcoreapp3.1\VehicleTrackingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+E:\VTS\VehicleTracking-master\VehicleTrackingSystem\VehicleTracking.Infrastructure\bin\Debug\netcoreapp3.1\VehicleTrackingSystem.Infrastructure.deps.json
+E:\VTS\VehicleTracking-master\VehicleTrackingSystem\VehicleTracking.Infrastructure\bin\Debug\netcoreapp3.1\VehicleTrackingSystem.Infrastructure.runtimeconfig.json
+E:\VTS\VehicleTracking-master\VehicleTrackingSystem\VehicleTracking.Infrastructure\bin\Debug\netcoreapp3.1\VehicleTrackingSystem.Infrastructure.runtimeconfig.dev.json
+E:\VTS\VehicleTracking-master\VehicleTrackingSystem\VehicleTracking.Infrastructure\bin\Debug\netcoreapp3.1\VehicleTrackingSystem.Infrastructure.dll
+E:\VTS\VehicleTracking-master\VehicleTrackingSystem\VehicleTracking.Infrastructure\bin\Debug\netcoreapp3.1\VehicleTrackingSystem.Infrastructure.pdb
+E:\VTS\VehicleTracking-master\VehicleTrackingSystem\VehicleTracking.Infrastructure\obj\Debug\netcoreapp3.1\VehicleTrackingSystem.Infrastructure.dll
+E:\VTS\VehicleTracking-master\VehicleTrackingSystem\VehicleTracking.Infrastructure\obj\Debug\netcoreapp3.1\VehicleTrackingSystem.Infrastructure.pdb
+E:\VTS\VehicleTracking-master\VehicleTrackingSystem\VehicleTracking.Infrastructure\obj\Debug\netcoreapp3.1\VehicleTrackingSystem.Infrastructure.genruntimeconfig.cache
